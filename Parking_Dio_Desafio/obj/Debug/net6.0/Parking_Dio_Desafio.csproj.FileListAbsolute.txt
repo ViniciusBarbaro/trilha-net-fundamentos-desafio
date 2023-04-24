@@ -1,0 +1,15 @@
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\bin\Debug\net6.0\Parking_Dio_Desafio.exe
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\bin\Debug\net6.0\Parking_Dio_Desafio.deps.json
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\bin\Debug\net6.0\Parking_Dio_Desafio.runtimeconfig.json
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\bin\Debug\net6.0\Parking_Dio_Desafio.dll
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\bin\Debug\net6.0\Parking_Dio_Desafio.pdb
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.csproj.AssemblyReference.cache
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.AssemblyInfoInputs.cache
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.AssemblyInfo.cs
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.csproj.CoreCompileInputs.cache
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.dll
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\refint\Parking_Dio_Desafio.dll
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.pdb
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\Parking_Dio_Desafio.genruntimeconfig.cache
+C:\Viniboy\1-Plano CARREIRA\3-Developer\DIO\Formaçao dotnet developer\Fundamentos DotNet\Desafio Estacionamento\Desafio_VinGBar_Build\Parking_Dio_Desafio\obj\Debug\net6.0\ref\Parking_Dio_Desafio.dll
